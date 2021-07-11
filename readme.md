@@ -1,1 +1,1 @@
-code for a blog post _link_
+code for a blog post: https://www.bit-101.com/blog/2021/07/mapping-perlin-noise-to-angles/
